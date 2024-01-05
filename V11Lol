@@ -105,5 +105,5 @@ screenGui:Destroy()
 end)
 
 GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("Paste here your link to get the key") 
+ setclipboard("https://discord.com/invite/KU7ehP9U4B") 
 end) 
